@@ -1,0 +1,63 @@
+{
+    "name": "LunarShard dApps",
+    "dapps": [
+        {
+            "name": "LunarShard",
+            "icon": "https://gitlab.com/pulsechain-lunagray/lunarshard-server/-/raw/main/pkg/app/dist/images/logo/logo_64x64.png?ref_type=heads?ref_type=heads",
+            "folder": "lunarshard",
+            "repoUrl": "https://gitlab.com/pulsechain-lunagray/lunarshard-server.git",
+            "buildPath": "pkg/app/dist",
+            "webUrl": "https://lunarshard.limo",
+            "tags": [
+                "Utility",
+                "Strorage",
+                "File-Sharing"
+            ],
+            "description": "LunarShard is a decentralized storage platform that allows users to store and share files in an immutable and censorship-resistant manner.",
+            "port": 3001
+        },
+        {
+            "name": "Pump.tires",
+            "icon": "https://gitlab.com/pulsechain-lunagray/pulsechain-dashboard/-/raw/main/public/icons/pumptires.png?ref_type=heads?ref_type=heads",
+            "webUrl": "https://pumptires.com",
+            "tags": [
+                "Meme",
+                "Swap"
+            ],
+            "description": "The easiest way to create and launch coins on PulseChain."
+        },
+        {
+            "name": "Phiat",
+            "icon": "https://phiat.io/favicon.ico",
+            "webUrl": "https://phiat.io",
+            "tags": [
+                "Finance",
+                "Lending",
+                "Stablecoin"
+            ],
+            "description": "Phiat is a decentralized finance platform on PulseChain, focused on lending and borrowing with stablecoins and native assets."
+        },
+        {
+            "name": "Impls Finance",
+            "icon": "https://impls.finance/favicon.ico",
+            "webUrl": "https://impls.finance",
+            "tags": [
+                "Yield",
+                "Farming",
+                "DeFi"
+            ],
+            "description": "Impls Finance offers auto-compounding strategies, yield farming, and advanced PulseChain DeFi tools."
+        },
+        {
+            "name": "Piteas",
+            "icon": "https://piteas.io/favicon.ico",
+            "webUrl": "https://piteas.io",
+            "tags": [
+                "Analytics",
+                "Explorer",
+                "Tools"
+            ],
+            "description": "Piteas is an advanced block explorer and analytics tool for PulseChain, offering real-time data insights and token tracking."
+        }
+    ]
+}
